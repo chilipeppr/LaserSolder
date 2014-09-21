@@ -1,3 +1,6 @@
+/*
+The laser solderer widget for ChiliPeppr that uses an Arduino to control a laser with an infrared heat sensor and a PID to ensure accurate soldering.
+*/
 // Test this element. This code is auto-removed by the chilipeppr.load()
 cprequire_test(["inline:com-chilipeppr-widget-lasersolder"], function (ls) {
     console.log("test running of " + ls.id);
