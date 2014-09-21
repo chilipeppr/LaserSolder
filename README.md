@@ -21,4 +21,4 @@ Eagle Schematics
 
 Freecad Design
 ----------
-
+![Screenshot](https://raw.githubusercontent.com/chilipeppr/LaserSolder/master/freecad/screenshot.png "Screenshot")
