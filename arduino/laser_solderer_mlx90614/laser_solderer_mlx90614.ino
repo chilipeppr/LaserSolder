@@ -1,3 +1,18 @@
+/*
+ChiliPeppr Laser Solderer Arduino Code
+
+This file controls a laser by toggling PIN 12 on and off. You need
+to connect a solid state relay, regular relay, or toggle a TTL signal
+on a bench power supply. Or you can use something like a FlexMod P3
+to toggle the laser on/off.
+
+The laser used is a 452nm Blue Diode laser in a standard 9mm casing
+with a heatsink.
+
+The Melexis MLX90614 is used for infrared temperature sensing. You
+should get the 5 degree FOV version which is around $35.
+*/
+
 /*************************************************** 
   This is a library example for the MLX90614 Temp Sensor
 
